@@ -10,3 +10,5 @@ I personally approach programming languages as just tools to get things done. Th
 - Languages I play with: Javascript/Typescript, PHP, SQL, Bash, Java
 - Libraries I work with: React, Node.js, Symfony, Laravel, Doctrine
 - Tools I know: MySQL, MongoDB, Redis, Elasticsearch/Kibana, Docker, Jenkins, RabbitMQ, AWS, Serverless
+
+:envelope: https://www.linkedin.com/in/deljachim
